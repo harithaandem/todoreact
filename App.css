@@ -1,0 +1,40 @@
+.todo-actionbar {
+    background-color: aquamarine;
+    transform: translateX(50%);
+    border: 1px solid #c3c3c3;
+    padding: 10px;
+    width:50%;
+    height:25px;
+}
+h1{
+  text-align: center;
+}
+.todo_container{
+  background-color:cyan;
+  transform: translateX(20%);
+  border: 1px solid #c3c3c3;
+  padding: 10px;
+  width:70%;
+}
+.todo_items{
+  display: flex;
+  flex-flow: row;
+  justify-content:space-around;
+}
+.todo_item_completed{
+  border: 1px solid #c3c3c3;
+  padding: 10px;
+  width:50%;
+  background-color:coral;
+}
+.todo_item{
+  border: 1px solid #c3c3c3;
+  padding: 10px;
+  width:50%;
+  background-color:white;
+}
+
+
+
+
+
